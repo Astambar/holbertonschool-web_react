@@ -1,5 +1,6 @@
 const path = require("path");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
+const HtmlWebpackPlugin = require("html-webpack-plugin"); // Ajout de l'import
 
 module.exports = {
   entry: {
@@ -24,6 +25,7 @@ module.exports = {
 	},
 	mode: 'development',
   plugins: [
-		new CleanWebpackPlugin(),
+    new CleanWebpackPlugin(),
+    new HtmlWebpackPlugin(), // Ajout du plugin
   ],
 };
