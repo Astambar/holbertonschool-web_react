@@ -26,9 +26,9 @@ Meilleures Pratiques de Développement React
 
 Lors du développement avec React, il est recommandé de suivre certaines meilleures pratiques pour garantir un code propre et évolutif :
 
-    Divisez en Composants : Divisez votre interface utilisateur en composants réutilisables pour une gestion simplifiée et une réutilisation accrue.
-    Utilisez le Flux de Données Unidirectionnel : Suivez le flux unidirectionnel des données pour maintenir une architecture prévisible.
-    Évitez la Manipulation Directe du DOM : Utilisez le JSX et laissez React gérer le DOM pour garantir la cohérence de l'interface utilisateur.
-    Utilisez des Crochets et des Contextes : Les crochets et les contextes React simplifient la gestion de l'état et des effets.
-    Testez Votre Code : Utilisez des bibliothèques de test comme Jest et Enzyme pour garantir la fiabilité de votre code.
-    Restez à Jour : React évolue rapidement, alors assurez-vous de suivre les dernières pratiques et mises à jour.
+*    **Divisez en Composants** : Divisez votre interface utilisateur en composants réutilisables pour une gestion simplifiée et une réutilisation accrue.
+*    **Utilisez le Flux de Données Unidirectionnel** : Suivez le flux unidirectionnel des données pour maintenir une architecture prévisible.
+*    **Évitez la Manipulation Directe du DOM** : Utilisez le JSX et laissez React gérer le DOM pour garantir la cohérence de l'interface utilisateur.
+*    **Utilisez des Hooks et des Contextes** : Les crochets et les contextes React simplifient la gestion de l'état et des effets.
+*    **Testez Votre Code** : Utilisez des bibliothèques de test comme Jest et Enzyme pour garantir la fiabilité de votre code.
+*    **Restez à Jour** : React évolue rapidement, alors assurez-vous de suivre les dernières pratiques et mises à jour.
